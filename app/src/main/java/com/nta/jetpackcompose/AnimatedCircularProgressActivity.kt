@@ -34,6 +34,7 @@ class AnimatedCircularProgressActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+        // yes
         setContent {
             Box(
                 contentAlignment = Alignment.Center,
